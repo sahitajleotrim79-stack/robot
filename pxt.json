@@ -8,7 +8,10 @@
         "Untitled": "github:sahitajleotrim79-stack/untitled#master",
         "cutebot": "github:elecfreaks/pxt-cutebot#v6.2.5",
         "maqueen": "github:dfrobot/pxt-maqueen#v1.7.16",
-        "pxt-cutebotpro": "github:elecfreaks/pxt-cutebot-pro#v2.1.2"
+        "pxt-cutebotpro": "github:elecfreaks/pxt-cutebot-pro#v2.1.2",
+        "pxt-kitronik-motor-driver": "github:kitronikltd/pxt-kitronik-motor-driver#v0.0.8",
+        "microbit-robot": "github:microsoft/microbit-robot#v2.7.4",
+        "gigglebot": "github:dexterind/pxt-gigglebot#v2.0.3"
     },
     "files": [
         "main.blocks",
